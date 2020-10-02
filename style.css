@@ -1,0 +1,16 @@
+.banner{
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    min-height: 550px;
+}
+.me{
+	color: blue;
+}
+.src{
+   padding-left: 370px;
+   padding-right: 0px;
+}
+img{
+	width:150px;
+	height: 350px;
+}
